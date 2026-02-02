@@ -46,18 +46,20 @@ The point values for each problem are given below. Problem 1c is worth 5 extra c
 grade on this assignment is 100 points. If you earn a total of 100 points or more _including the extra credit points_,
 then your grade will be 100.
 
-| Problem                                   | Problem Type | Points |
-|-------------------------------------------|--------------|--------|
-| 1b: Implement the Embeddings Class        | Code         | 4      |
-| 1c: Extra Credit                          | Written      | 1 EC   |
-| 2b: Implement Data Loading Script         | Code         | 4      |
-| 3b: Calculate Cosine Similarity           | Code         | 2      |
-| 3c: Find Neighboring Words                | Code         | 2      |
-| 3d: Write Testing Script                  | Code         | 4      |
-| 4a: Syntactic vs. Semantic Relation Types | Written      | 2      |
-| 4b: Effect of Lenience                    | Written      | 1      |
-| 4c: Qualitative Evaluation                | Written      | 1      |
-| **Total**                                 |              | **20** |
+| Problem                                   | Problem Type  | Points |
+|-------------------------------------------|---------------|--------|
+| 1b: Implement the Embeddings Class        | Code          | 4      |
+| 1c: Extra Credit                          | Written       | 1 EC   |
+| 2b: Implement Data Loading Script         | Code          | 4      |
+| 3b: Calculate Cosine Similarity           | Code          | 2      |
+| 3c: Find Neighboring Words                | Code          | 2      |
+| 3d: Write Testing Script                  | Code          | 4      |
+| 4a: Syntactic vs. Semantic Relation Types | Written       | 2      |
+| 4b: Effect of Lenience                    | Written       | 1      |
+| 4c: Qualitative Evaluation                | Written       | 1      |
+| 5a: Ask Your Friends for Help             | No Submission | 1 EC   |
+| 5b: Help a Friend                         | No Submission | 1 EC   |
+| **Total**                                 |               | **20** |
 
 ### Rubric for Code Problems
 
